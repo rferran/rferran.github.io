@@ -1,0 +1,40 @@
+---
+layout: page
+title: Education
+image: assets/images/education.jpg
+nav-menu: true
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- Education -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Education</h1>
+		</header>
+<!-- Education Description -->
+  <h2>Universitat Oberta de Catalunya (UOC)</h2>
+    <h3>Computer Science</h3>
+      <p>The technological, scientific and socioeconomic principles of computer 
+      engineering and a versatile knowledge base in computing, including the following: 
+      computer systems and algorithms as computational processes, program and hardware 
+      design and design applications; the impact of this field on modern society.
+      The skills to work in either of two particular areas: computer programming in general,
+      and innovative problem solving tools in emerging areas of the labour market.</p>
+      <hr>
+  <h2>Escola del Treball de Barcelona</h2>
+    <h3>Superior technician in SysAdmin</h3>
+      <p>Configure, manage and maintain computer systems.</p>
+      <hr>
+  <h2>Universitat de Barcelona</h2>
+    <h3>Computer Science</h3>
+      <p>Studied two years of computer science.</p>
+      <hr>
+  <h2>INS Mediterrània</h2>
+    <h3>Baccalaureate</h3>
+      <p>Technological baccalaureate.</p>
+<br>
+<!-- End Education Description -->
+</div>

@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about/
+description: 
+image: assets/images/face.jpg
+nav-menu: true
 ---
 
 I'm Roger Ferran, a Systems Administrator from Barcelona.
