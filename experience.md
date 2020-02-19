@@ -48,3 +48,9 @@ nav-menu: true
 		</p>
 </div>
 <!-- End Internship Description -->
+
+<!-- Turn back button -->
+<div>
+  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
+</div>
+<!-- End turn back button -->

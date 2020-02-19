@@ -38,3 +38,9 @@ nav-menu: true
 <br>
 <!-- End Education Description -->
 </div>
+
+<!-- Turn back button -->
+<div>
+  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
+</div>
+<!-- End turn back button -->

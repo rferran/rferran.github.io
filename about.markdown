@@ -15,7 +15,10 @@ Projects related to web development and development of new applications are what
 Welcome to my personal portfolio, hope you enjoy it!
 
 
-
-
+<!-- Turn back button -->
+<div>
+  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
+</div>
+<!-- End turn back button -->
 
 
