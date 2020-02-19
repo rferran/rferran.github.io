@@ -19,7 +19,7 @@ nav-menu: true
 <!-- Accenture -->
 <div class="6u 12u$(small)">
 <p><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span>
-		<h3>Sysadmin at Accenture</h3>
+		<h3>SysAdmin at Accenture</h3>
 		Computer systems management and assistance to different teams in order to maintain the infrastructure. 
 		</p>
 		<ul>
