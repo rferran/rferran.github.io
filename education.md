@@ -34,7 +34,7 @@ nav-menu: true
       <hr>
   <h2>INS Mediterrània</h2>
     <h3>Baccalaureate</h3>
-      <p>*Technological baccalaureate.*</p>
+      <p>Technological baccalaureate.</p>
 <br>
 <!-- End Education Description -->
 </div>
