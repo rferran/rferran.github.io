@@ -20,7 +20,7 @@ nav-menu: true
 <div class="6u 12u$(small)">
 <p><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span>
 		<h3>Sysadmin at Accenture</h3>
-		During this period I was able to learn how to manage computer systems helping different projects and teams to maintain the infrastructure. 
+		Computer systems management and assistance to different teams in order to maintain the infrastructure. 
 		</p>
 		<ul>
 			<li>Database developing.</li>
