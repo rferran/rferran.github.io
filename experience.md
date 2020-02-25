@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-image: assets/images/work.jpg
+image: assets/images/experience.jpg
 nav-menu: true
 ---
 
