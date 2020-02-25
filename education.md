@@ -15,6 +15,7 @@ nav-menu: true
 			<h1>Education</h1>
 		</header>
 <!-- Education Description -->
+<p><span class="image right"><img src="{% link assets/images/uoc.jpg %}" alt="" /></span>
   <h2>Universitat Oberta de Catalunya (UOC)</h2>
     <h3>Computer Science</h3>
       <p>The technological, scientific and socioeconomic principles of computer 
@@ -23,11 +24,14 @@ nav-menu: true
       design and design applications; the impact of this field on modern society.
       The skills to work in either of two particular areas: computer programming in general,
       and innovative problem solving tools in emerging areas of the labour market.</p>
+      
       <hr>
   <h2>Escola del Treball de Barcelona</h2>
     <h3>Superior technician in SysAdmin</h3>
       <p>Configure, manage and maintain computer systems.</p>
       <hr>
+      <div class="6u 12u$(small)">
+<p><span class="image right"><img src="{% link assets/images/ub.jpg %}" alt="" /></span>
   <h2>Universitat de Barcelona</h2>
     <h3>Computer Science</h3>
       <p>Studied two years of computer science.</p>
@@ -37,8 +41,6 @@ nav-menu: true
       <p>Technological baccalaureate.</p>
 <br>
 <!-- End Education Description -->
-</div>
-
 <!-- Turn back button -->
 <div>
   <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
