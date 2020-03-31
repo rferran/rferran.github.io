@@ -6,7 +6,7 @@ description: Welcome to my personal portfolio<br />
 baseurl: "/rferran.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 
+street_address: Avinguda Diagonal
 city: Barcelona
 state: 
 zip_code: 08018
@@ -23,7 +23,7 @@ facebook_url:
 github_url: https://github.com/rferran
 gitlab_url: https://gitlab.com/rferran
 googleplus_url: 
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/roogeer
 linkedin_url: https://www.linkedin.com/in/rogerferran
 pinterest_url:
 slack_url:
