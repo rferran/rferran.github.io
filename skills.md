@@ -20,6 +20,7 @@ Check my personal soft and hard skills.
 * Adaptability.  
 * Problem solving.  
 * Conflict resolution.
+* Emotional intelligence.
 
 <!-- End soft skills -->
 
