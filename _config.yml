@@ -3,7 +3,7 @@ title: Roger's Portfolio
 subtitle: 
 email: roger.ferran.aranguren@gmail.com
 description: Welcome to my personal portfolio<br />
-baseurl: "/rferran.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "/rferran.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Avinguda Diagonal
