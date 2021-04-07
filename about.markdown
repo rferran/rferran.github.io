@@ -10,9 +10,9 @@ Roger Ferran, a Systems Administrator and student of Computer Science at Univers
 
 Experience in management and resolving incidents in a call center. Maintenance of Linux and Windows platforms.
 
-Projects related to web development and development of new applications are what motivate me the most. Inquisitiveness about new Cloud Computing tools such as AWS or Google Cloud.
+Projects related to web development and development of new applications are what motivate me the most. Inquisitiveness about new Cloud Computing tools such as AWS, Google Cloud or Azure.
 
-Welcome to my personal portfolio, hope you enjoy it!
+Welcome to my personal portfolio!
 
 
 <!-- Turn back button -->
