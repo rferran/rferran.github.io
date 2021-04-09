@@ -6,11 +6,9 @@ image: assets/images/face.jpg
 nav-menu: true
 ---
 
-Roger Ferran, a Systems Administrator and student of Computer Science at Universitat Oberta de Catalunya. Currently working as a systems administrator in end customer.
-
-Experience in management and resolving incidents in a call center. Maintenance of Linux and Windows platforms.
-
-Projects related to web development and development of new applications are what motivate me the most. Inquisitiveness about new Cloud Computing tools such as AWS, Google Cloud or Azure.
+Roger Ferran Aranguren, a SysAdmin and Computer Science student at Universitat Oberta de Catalunya. Currently working as a systems administrator.
+Experience managing and resolving incidents (Level 1, 2 and 3). Maintenance of Linux and Windows platforms. <br>
+Projects related to web design and development of new applications are what motivate me the most. <br> Inquisitiveness about new Cloud Computing tools such as AWS, Google Cloud or Azure.
 
 Welcome to my personal portfolio!
 
