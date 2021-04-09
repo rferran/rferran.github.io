@@ -1,7 +1,7 @@
 ---
 title: Work
 layout: landing
-description: Below you can see some of the projects I've worked in
+description: Below you can see some of the projects I've worked in and some of my hobbies
 image: assets/images/work.jpeg
 nav-menu: true
 ---
