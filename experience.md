@@ -57,8 +57,8 @@ nav-menu: true
 </div>
 <!-- End Internship Description -->
 
-<!-- Turn back button -->
-<div>
-  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
-</div>
-<!-- End turn back button -->
+<!-- Go to Skills button -->
+<form action="https://rferran.github.io/skills.html">
+    <input type="submit" value="Go to Skills" />
+</form>
+<!-- End go to skills button -->
