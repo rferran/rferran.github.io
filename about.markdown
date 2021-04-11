@@ -13,10 +13,10 @@ Projects related to web design and development of new applications are what moti
 Welcome to my personal portfolio!
 
 
-<!-- Turn back button -->
-<div>
-  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
-</div>
-<!-- End turn back button -->
+<!-- Go to experience button -->
+<form action="https://rferran.github.io/experience.html">
+    <input type="submit" value="Go to Experience" />
+</form>
+<!-- End go to experience button -->
 
 
