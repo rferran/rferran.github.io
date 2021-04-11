@@ -14,33 +14,40 @@ nav-menu: true
 		<header class="major">
 			<h1>Experience</h1>
 		</header>
+		<br>
 
 <!-- Content -->
 <!-- Accenture -->
-<div class="6u 12u$(small)">
-<p><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span></p>
-		<p style="padding-left:990px;">
-		<h3>SysAdmin at Accenture</h3>
-		Computer systems management and assistance to different teams in order to maintain the infrastructure. 
+<div class="10u 12u$(small)">
+<p style="margin-left: 400px"><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span></p>
+		<p>
+		<h3>App/Cloud Support and SysAdmin at Accenture</h3>
+		<p style="margin-left: 20px">Computer systems management and support assistance in order to maintain the infrastructure. 
 		</p>
-		<ul>
+		</p>
+		<ul style="margin-left: 30px">
 			<li>Database developing.</li>
 			<li>Webpage developing.</li>
 			<li>Old platforms migration.</li>
 			<li>Docker.</li>
 			<li>Managing computer systems (Windows, Linux and Mac).</li>
 			<li>Helpdesk.</li>
+			<li>VIP Support.</li>
+			<li>Tape Library Management ADIC Quantum Scalar.</li>
+			<li>Arcserve Backup.</li>
+			<li>NextCloud Server administration.</li>
+			<li>Azure DR.</li>
 		</ul>
 </div>
 <!-- End Accenture -->
 <hr>
 
 <!-- Internship Description -->
-<div class="6u 12u$(small)">
-<p><span class="image right"><img src="{% link assets/images/rba.png %}" alt="" /></span>
+<div class="10u 12u$(small)">
+<p style="margin-left: 400px"><span class="image right"><img src="{% link assets/images/rba.png %}" alt="" /></span>
 		<h3>SysAdmin at RBA Holding de Comunicación</h3>
-		<p>Internship in System Administration department.</p>
-		<ul>
+		<p style="margin-left: 20px">Internship in IT System Administration department.</p>
+		<ul style="margin-left: 30px">
 			<li>Database developing.</li>
 			<li>Routing and switching.</li>
 			<li>Managing computer systems.</li>

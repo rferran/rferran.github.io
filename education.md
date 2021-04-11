@@ -41,8 +41,8 @@ nav-menu: true
       <p>Technological baccalaureate.</p>
 <br>
 <!-- End Education Description -->
-<!-- Turn back button -->
-<div>
-  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
-</div>
-<!-- End turn back button -->
+<!-- Go to experience button -->
+<form action="https://rferran.github.io/experience.html">
+    <input type="submit" value="Go to Experience" />
+</form>
+<!-- End go to experience button -->

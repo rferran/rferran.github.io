@@ -14,8 +14,8 @@ Welcome to my personal portfolio!
 
 
 <!-- Go to experience button -->
-<form action="https://rferran.github.io/experience.html">
-    <input type="submit" value="Go to Experience" />
+<form action="https://rferran.github.io/education.html">
+    <input type="submit" value="Go to Education" />
 </form>
 <!-- End go to experience button -->
 
