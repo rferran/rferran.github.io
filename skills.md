@@ -31,11 +31,13 @@ Here you can check my personal soft and hard skills.
 <!-- Hard skills -->
 ## Hard Skills
 ![Hard Skills](assets/images/HardSkills.png)
+
+<br>
 <!-- End hard skills -->
 
-<!-- Turn back button -->
-<div>
-  <input class="back" type="button" name="turn" value="Turn back" onclick="history.back()"/>
-</div>
-<!-- End turn back button -->
+<!-- Go to work button -->
+<form action="https://rferran.github.io/work.html">
+    <input type="submit" value="Go to Work" />
+</form>
+<!-- End go to work button -->
 <!--========== END SKILLS ==========-->
