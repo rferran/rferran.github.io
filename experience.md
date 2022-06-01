@@ -30,7 +30,6 @@ nav-menu: true
 			<li>Arcserve Backup.</li>
 			<li>Old platforms migration.</li>
 			<li>Docker.</li>
-			<li>Managing computer systems (Windows, Linux and Mac).</li>
 			<li>ISILON, DataDomain and Unity cabins administration.</li>
 			<li>Administration and management of Windows File Server, DHCP server, DNS server, Print server.</li>
 			<li>Tape Library Management ADIC Quantum Scalar.</li>
