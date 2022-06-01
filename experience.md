@@ -22,21 +22,27 @@ nav-menu: true
 <p style="margin-left: 400px"><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span></p>
 		<p>
 		<h3>App/Cloud Support and SysAdmin at Accenture</h3>
-		<p style="margin-left: 20px">Computer systems management and support assistance in order to maintain the infrastructure. 
+		<p style="margin-left: 20px">Support, monitor, and maintain applications and cloud computing systems. Apply technical knowledge to diagnose and resolve application issues. Design and code applications in line with functional and technical programming standards. Analyze, design, build, and/or test new components or enhancements to existing modules, including reporting and analysis capabilitites. 
 		</p>
 		</p>
 		<ul style="margin-left: 30px">
-			<li>Database developing.</li>
-			<li>Webpage developing.</li>
+			<li>Windows and Linux server management.</li>
+			<li>Arcserve Backup.</li>
 			<li>Old platforms migration.</li>
 			<li>Docker.</li>
 			<li>Managing computer systems (Windows, Linux and Mac).</li>
-			<li>Helpdesk.</li>
-			<li>VIP Support.</li>
+			<li>ISILON, DataDomain and Unity cabins administration.</li>
+			<li>Administration and management of Windows File Server, DHCP server, DNS server, Print server.</li>
 			<li>Tape Library Management ADIC Quantum Scalar.</li>
-			<li>Arcserve Backup.</li>
+			<li>Veeam Backup for Office 365.</li>
 			<li>NextCloud Server administration.</li>
 			<li>Azure DR.</li>
+			<li>Nessus Professional.</li>
+			<li>Management and domains purchasing (Acens, NIC, 123 Reg).</li>
+			<li>Management and web certificates purchasing. (GoDaddy, ComodoSSL).</li>
+			<li>VMWare administration.</li>
+			<li>F5 BIG-IP.</li>
+			<li>CheckPoint Firewall.</li>
 		</ul>
 </div>
 <!-- End Accenture -->
