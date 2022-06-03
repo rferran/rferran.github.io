@@ -35,7 +35,7 @@ nav-menu: true
 			<li>Tape Library Management ADIC Quantum Scalar.</li>
 			<li>Veeam Backup for Office 365.</li>
 			<li>NextCloud Server administration.</li>
-			<li>Azure DR and Azure VMs.</li>
+			<li>Azure DR, Azure VMs and Azure AD.</li>
 			<li>Nessus Professional.</li>
 			<li>Management and domains purchasing (Acens, NIC, 123 Reg).</li>
 			<li>Management and web certificates purchasing. (GoDaddy, ComodoSSL).</li>
