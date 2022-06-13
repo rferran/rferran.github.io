@@ -38,7 +38,7 @@ nav-menu: true
 			<li>Azure DR, Azure VMs and Azure AD.</li>
 			<li>Nessus Professional.</li>
 			<li>Management and domains purchasing (Acens, NIC, 123 Reg).</li>
-			<li>Management and web certificates purchasing. (GoDaddy, ComodoSSL).</li>
+			<li>Management and web certificates purchasing (GoDaddy, ComodoSSL).</li>
 			<li>VMWare administration.</li>
 			<li>F5 BIG-IP.</li>
 			<li>CheckPoint Firewall.</li>
