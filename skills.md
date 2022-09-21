@@ -52,6 +52,9 @@ Here you can check my personal soft and hard skills.
 <li>ArcServe Backup</li>
 <li>ServiceNow</li>
 <li>Office 365</li>
+<li>ISILON</li>
+<li>Unity</li>
+
 </ul>
 </p> 
 
