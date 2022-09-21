@@ -2,16 +2,16 @@
 title: Roger's Portfolio
 subtitle: 
 email: roger.ferran.aranguren@gmail.com
-description: Welcome to my personal portfolio<br />
+description: Welcome to my personal portfolio<br/>
 #baseurl: "/rferran.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Avinguda Diagonal
+street_address: 
 city: Barcelona
 state: 
-zip_code: 08018
+zip_code:
 country: Spain
-phone: Ask for it on the email.
+phone: Ask for on the email.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
