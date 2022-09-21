@@ -35,6 +35,29 @@ Here you can check my personal soft and hard skills.
 <br>
 <!-- End hard skills -->
 
+<!-- Technical skills -->
+## Technical Skills
+<p>
+<ul style="margin-left: 20px">
+<li>Docker</li>
+<li>GitHub</li>
+<li>Linux</li>
+<li>Windows</li>
+<li>Macintosh</li>
+<li>Azure</li>
+<li>Bash</li>
+<li>Powershell</li>
+<li>VMWare</li>
+<li>Veeam Backup</li>
+<li>ArcServe Backup</li>
+<li>ServiceNow</li>
+<li>Office 365</li>
+</ul>
+</p> 
+
+<br>
+<!-- End hard skills -->
+
 <!-- Go to work button -->
 <form action="https://rferran.github.io/work.html">
     <input type="submit" value="Go to Work" />
