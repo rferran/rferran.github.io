@@ -28,13 +28,6 @@ Here you can check my personal soft and hard skills.
 <br>
 <!-- End soft skills -->
 
-<!-- Hard skills -->
-## Hard Skills
-![Hard Skills](assets/images/HardSkills.png)
-
-<br>
-<!-- End hard skills -->
-
 <!-- Technical skills -->
 ## Technical Skills
 <p>
@@ -54,9 +47,15 @@ Here you can check my personal soft and hard skills.
 <li>Office 365</li>
 <li>ISILON</li>
 <li>Unity</li>
-
 </ul>
 </p> 
+
+<br>
+<!-- End technical skills -->
+
+<!-- Hard skills -->
+## Hard Skills
+![Hard Skills](assets/images/HardSkills.png)
 
 <br>
 <!-- End hard skills -->
