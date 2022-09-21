@@ -21,7 +21,7 @@ nav-menu: true
 <div class="10u 12u$(small)">
 <p style="margin-left: 400px"><span class="image right"><img src="{% link assets/images/logoaccenture.png %}" alt="" /></span></p>
 		<p>
-		<h3>App/Cloud Support Analyst and SysAdmin at Accenture</h3>
+		<h3>App/Cloud Support Senior Analyst and SysAdmin at Accenture</h3>
 		<p style="margin-left: 20px">Support, monitor, and maintain applications and cloud computing systems. Apply technical knowledge to diagnose and resolve application issues. Design and code applications in line with functional and technical programming standards. Analyze, design, build, and/or test new components or enhancements to existing modules, including reporting and analysis capabilitites. 
 		</p>
 		</p>
@@ -42,6 +42,7 @@ nav-menu: true
 			<li>VMWare administration.</li>
 			<li>F5 BIG-IP.</li>
 			<li>CheckPoint Firewall.</li>
+			<li>Management and leadership of the implementation of a new SaaS antivirus solution.</li>
 		</ul>
 </div>
 <!-- End Accenture -->
