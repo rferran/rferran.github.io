@@ -8,9 +8,9 @@ nav-menu: true
 
 Roger Ferran Aranguren, a SysAdmin and Computer Science student at Universitat Oberta de Catalunya. Currently working as a System Administrator.
 
-Experience managing and resolving incidents (Level 1, 2 and 3) and Linux, Windows  and Mac platforms maintenance.<br>
+Experience managing and resolving incidents (Level 1, 2 and 3) and Linux, Windows  and Mac platforms maintenance.
 
-Team managing capabilities, organizational abilities and communication skills. Committed and motivated. <br>
+Team managing capabilities, organizational abilities and communication skills. Committed and motivated. 
 
 Inquisitiveness about new Cloud Computing tools such as AWS, Google Cloud or Azure.
 
