@@ -47,6 +47,7 @@ Here you can check my personal soft and hard skills.
 <li>Office 365</li>
 <li>ISILON</li>
 <li>Unity</li>
+<li>Superna</li>
 </ul>
 </p> 
 
