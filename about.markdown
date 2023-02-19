@@ -19,9 +19,9 @@ Welcome to my personal portfolio!
 
 
 <!-- Go to certifications button -->
-<form action="https://rferran.github.io/certifications.html">
+<!--<form action="https://rferran.github.io/certifications.html">
     <input type="submit" value="Go to Certifications" />
-</form>
+</form>-->
 <!-- End go to certifications button -->
 
 
