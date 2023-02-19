@@ -28,21 +28,23 @@ nav-menu: true
 		<ul style="margin-left: 30px">
 			<li>Windows and Linux server management.</li>
 			<li>Arcserve Backup.</li>
+			<li>Ansible Automation.</li>
+			<li>Azure DR, Azure VMs, DNS Zones, Azure ASR, Azure AD.</li>
 			<li>Old platforms migration.</li>
-			<li>Docker.</li>
 			<li>ISILON, DataDomain and Unity cabins administration.</li>
-			<li>Administration and management of Windows File Server, DHCP server, DNS server, Print server.</li>
+			<li>Superna's Scale out NAS Data Protection solutions for Dell EMC Isilon, Ransomware Protection.</li>
+			<li>SaaS antivirus solution management.</li>
+			<li>Docker.</li>
+			<li>Windows File Server, DHCP server, DNS server, Print server management.</li>
 			<li>Tape Library Management ADIC Quantum Scalar.</li>
 			<li>Veeam Backup for Office 365.</li>
 			<li>NextCloud Server administration.</li>
-			<li>Azure DR, Azure VMs and Azure AD.</li>
 			<li>Nessus Professional.</li>
 			<li>Management and domains purchasing (Acens, NIC, 123 Reg).</li>
 			<li>Management and web certificates purchasing (GoDaddy, ComodoSSL).</li>
 			<li>VMWare administration.</li>
 			<li>F5 BIG-IP.</li>
 			<li>CheckPoint Firewall.</li>
-			<li>Management and leadership of the implementation of a new SaaS antivirus solution.</li>
 		</ul>
 </div>
 <!-- End Accenture -->
