@@ -18,10 +18,10 @@ Inquisitiveness about new Cloud Computing tools such as AWS, Google Cloud or Azu
 Welcome to my personal portfolio!
 
 
-<!-- Go to experience button -->
-<form action="https://rferran.github.io/education.html">
-    <input type="submit" value="Go to Education" />
+<!-- Go to certifications button -->
+<form action="https://rferran.github.io/certifications.html">
+    <input type="submit" value="Go to Certifications" />
 </form>
-<!-- End go to experience button -->
+<!-- End go to certifications button -->
 
 
