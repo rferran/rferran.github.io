@@ -16,19 +16,27 @@ nav-menu: true
 			<h1>Certifications</h1>
 		</header>
         <!-- Certifications Description -->
-        <p><span class="image right"><img src="{% link assets/images/fundamentals.jpg %}" alt="" height=150px /></span></p>
+        <p><span class="image right"><img src="{% link assets/images/fundamentals.jpg %}" alt="" /></span></p>
         <h2>Azure Fundamentals AZ-900</h2>
         <p style="margin-left: 20px" align="justify">Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.</p>
         <br>
+        <br>
+        <br>   
+        <br>
+        <br>
+        <br>
         <hr>
-        <p><span class="image right"><img src="{% link assets/images/administrator.jpg %}" alt="" height=150px /></span></p>
+        <p><span class="image right"><img src="{% link assets/images/administrator.jpg %}" alt="" /></span></p>
         <h2>Azure Administrator Associate AZ-104</h2>
         <p style="margin-left: 20px">Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.</p>
+      <br>
+      <br>
+      <br>
+      <br>
       <br>
     </div>
 </section>
 </div>
-
   <!-- End Certifications Description -->
 <!-- Go to education button -->
 <form action="https://rferran.github.io/education.html">
