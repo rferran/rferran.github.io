@@ -11,7 +11,7 @@ city: Barcelona
 state: 
 zip_code:
 country: Spain
-phone: Ask for on the email.
+phone: Ask for my telephone number on the email.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
