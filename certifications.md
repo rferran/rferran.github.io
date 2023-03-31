@@ -39,6 +39,7 @@ nav-menu: true
         <p style="margin-left: 20px">Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.</p>
       <br>
       <br>
+      <br>
       <hr>
         <p><span class="image right"><img src="{% link assets/images/architect.png %}" alt="" /></span></p>
         <h2>Designing Microsoft Azure Infrastructure Solutions AZ-305</h2>
