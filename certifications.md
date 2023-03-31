@@ -31,11 +31,13 @@ nav-menu: true
         <p style="margin-left: 20px">Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.</p>
       <br>
       <br>
+      <hr>
         <p><span class="image right"><img src="{% link assets/images/administrator.jpg %}" alt="" /></span></p>
         <h2>Azure Administrator Associate AZ-104</h2>
         <p style="margin-left: 20px">Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.</p>
       <br>
       <br>
+      <hr>
       <br>
       <br>
         <p><span class="image right"><img src="{% link assets/images/architect.png %}" alt="" /></span></p>
